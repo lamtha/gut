@@ -374,9 +374,9 @@ flowchart LR
 
 ## References
 
-[^1]: Pimentel M, et al. *Real-world Study of Three-gas Breath Testing Nationwide Reveals Distinct Associations of Hydrogen Sulfide and Methane With Gastrointestinal Symptoms*. Dig Dis Sci. 2026. PubMed 41671534.
-[^2]: Villanueva-Millan MJ, et al. *Hydrogen Sulfide and Methane on Breath Test Correlate with Human Small Intestinal Hydrogen Sulfide Producers and Methanogens*. Dig Dis Sci. 2025. PubMed 40569514.
-[^3]: Leite G, et al. *Defining Small Intestinal Bacterial Overgrowth by Culture and High Throughput Sequencing*. Clin Gastroenterol Hepatol. 2024;22(2):259-270. PubMed 37315761.
-[^4]: Rezaie A, et al. *Hydrogen and Methane-Based Breath Testing in Gastrointestinal Disorders: The North American Consensus*. Am J Gastroenterol. 2017;112(5):775-784.
-[^5]: Ruaud A, et al. *Syntrophy via Interspecies H₂ Transfer between Christensenella and Methanobrevibacter Underlies Their Global Cooccurrence in the Human Gut*. mBio. 2020;11(1):e03235-19. PubMed 32019803.
-[^6]: da Silva BC, et al. *Diagnosis and Treatment of Small Intestinal Bacterial Overgrowth*. Arq Gastroenterol. 2025.
+[^1]: Pimentel M, et al. *Real-world Study of Three-gas Breath Testing Nationwide Reveals Distinct Associations of Hydrogen Sulfide and Methane With Gastrointestinal Symptoms*. *Digestive Diseases and Sciences* (2026). [PubMed 41671534](https://pubmed.ncbi.nlm.nih.gov/41671534/ "PubMed record for the 2026 three-gas nationwide breath test study").
+[^2]: Villanueva-Millan MJ, et al. *Hydrogen Sulfide and Methane on Breath Test Correlate with Human Small Intestinal Hydrogen Sulfide Producers and Methanogens*. *Digestive Diseases and Sciences* (2025). [PubMed 40569514](https://pubmed.ncbi.nlm.nih.gov/40569514/ "PubMed record for the 2025 duodenal-plus-breath correlation study").
+[^3]: Leite G, et al. *Defining Small Intestinal Bacterial Overgrowth by Culture and High Throughput Sequencing*. *Clinical Gastroenterology and Hepatology* 22(2):259-270 (2024). [PubMed 37315761](https://pubmed.ncbi.nlm.nih.gov/37315761/ "PubMed record for the 2024 aspirate culture and sequencing SIBO study").
+[^4]: Rezaie A, et al. *Hydrogen and Methane-Based Breath Testing in Gastrointestinal Disorders: The North American Consensus*. *The American Journal of Gastroenterology* 112(5):775-784 (2017). [PubMed 28323273](https://pubmed.ncbi.nlm.nih.gov/28323273/ "PubMed record for the North American breath testing consensus").
+[^5]: Ruaud A, et al. *Syntrophy via Interspecies H₂ Transfer between Christensenella and Methanobrevibacter Underlies Their Global Cooccurrence in the Human Gut*. *mBio* 11(1):e03235-19 (2020). [PubMed 32019803](https://pubmed.ncbi.nlm.nih.gov/32019803/ "PubMed record for the Christensenella–Methanobrevibacter syntrophy study").
+[^6]: da Silva BC, et al. *Diagnosis and Treatment of Small Intestinal Bacterial Overgrowth*. *Arquivos de Gastroenterologia* (2025). [Article page](https://pubmed.ncbi.nlm.nih.gov/?term=Diagnosis+and+Treatment+of+Small+Intestinal+Bacterial+Overgrowth+da+Silva+2025 "Search results for the 2025 SIBO review by da Silva et al.").
